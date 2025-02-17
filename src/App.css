@@ -1,0 +1,55 @@
+
+main {
+    max-width: 1202px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+/* Reset básico para remover margens e paddings padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Removendo estilos padrões de lista */
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* Resetando estilos padrão de links */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Garantindo que os inputs e botões não tenham estilos estranhos */
+  button, input, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    border: none;
+    background: none;
+    outline: none;
+  }
+  
+  /* Ajustando imagens para serem responsivas */
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  /* Melhorando a acessibilidade para botões e links */
+  button {
+    cursor: pointer;
+  }
+  
+  /* Definindo uma base consistente para tipografia */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: "Montserrat", serif;
+  }

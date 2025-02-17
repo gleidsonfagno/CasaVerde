@@ -1,11 +1,12 @@
-# Cada Verde
+# Casa Verde
 
-Esse projeto e um desafio da alura chamado #7DaysOfCode
-onde temos 7 dias para resalizar esse desafio que proposto todos os dias.
+Esse projeto é um desafio da Alura chamado #7DaysOfCode, onde temos 7 dias para realizar esse desafio que é proposto todos os dias.
 
 ## Tecnologias utilizadas
 
 - React.js
-- Styled-comnponents
-- typescript
-# CasaVerde
+- Styled-components
+- TypeScript
+
+Desafio 1 [x]
+Criar os componentes do ``menu`` e da ``newsletter``
