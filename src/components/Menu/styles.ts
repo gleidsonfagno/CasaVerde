@@ -16,21 +16,32 @@ export const MenuBar = styled.nav`
     ul {
         display: flex;
         flex-direction: row;
-        gap:  10px 16px 0;
 
         li {
             display: flex;
             gap: 16px;
+            font-size: 16px;
             a {
-                font-size: 16px;
+                padding: 0 8px;
                 color: #202020;
                 font-family: "Montserrat", serif;
             }
         }
 
-        li:last-child {
-            padding-left: 42px;
-               
+    }
+
+    @media (max-width: 805px)  {
+        flex-direction: column;
+        gap: 10px;
+        ul {
+            flex-wrap: wrap;
+            justify-content: center;
+            li {
+                font-size: 12px;
+                a {
+                    padding: 0  12px;
+                }
+            }
         }
     }
 `;

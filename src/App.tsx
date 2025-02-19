@@ -5,14 +5,10 @@ import { Newsletter } from './components/Newsletter'
 export function App() {
 
   return (
-    <>
-      <Menu />
-
       <main>
+      <Menu />
       <Newsletter />
+      
       </main>
-
-    
-    </>
   )
 }

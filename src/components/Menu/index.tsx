@@ -15,25 +15,25 @@ export function Menu() {
             <a href="/">
               Como fazer
             </a>
-             <span>/</span>
+             /
           </li>
           <li>
             <a href="/Ofertas">
               Ofertas
             </a>
-             <span>/</span>
+             /
           </li>
           <li>
             <a href="/Depoimentos">
               Depoimentos
             </a>
-             <span>/</span>
+             /
           </li>
           <li>
             <a href="/Vídeos">
               Vídeos
             </a>
-             <span>/</span>
+             /
           </li>
           <li>
             <a href="/Meu carrinho">Meu carrinho</a>
