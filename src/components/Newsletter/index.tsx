@@ -30,6 +30,8 @@ export function Newsletter() {
   const onSubmit = (data: data) => {
     console.log("Dados enviados:", data);
     setSubmittedEmail(data.email);
+
+    
   };
 
   useEffect(() => {
@@ -93,3 +95,4 @@ export function Newsletter() {
     </Main>
   );
 }
+ 

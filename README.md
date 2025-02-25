@@ -2,6 +2,8 @@
 
 Esse projeto é um desafio da Alura chamado #7DaysOfCode, onde temos 7 dias para realizar esse desafio que é proposto todos os dias.
 
+[Projeto](https://casa-verde-khaki-kappa.vercel.app/)
+
 ## Tecnologias utilizadas
 
 - React.js
@@ -14,7 +16,7 @@ Criar os componentes do ``menu`` e da ``newsletter``
 Desafio 2 [X]
 utilizar styled components para stelizar a pagina
 
-Desafio 3 [x]
+Desafio 3 [X]
 validar o formulario
 
 utilizei o [react-hook-form](https://react-hook-form.com/) com o
